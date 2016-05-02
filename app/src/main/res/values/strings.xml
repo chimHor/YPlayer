@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YPlayer</string>
+    <string name="title_activity_yplayer2">YPlayer2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
